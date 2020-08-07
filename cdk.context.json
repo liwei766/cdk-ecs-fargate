@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=443334274279:region=ap-northeast-1": [
+    "ap-northeast-1a",
+    "ap-northeast-1c",
+    "ap-northeast-1d"
+  ],
+  "hosted-zone:account=443334274279:domainName=ekstest.xyz:region=ap-northeast-1": {
+    "Id": "/hostedzone/Z07014631SZDF8YL65BGH",
+    "Name": "ekstest.xyz."
+  }
+}
